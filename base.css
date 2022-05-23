@@ -1,0 +1,15 @@
+:root{
+    --main-bg-color:  #E5E5E5;
+    --second-bg-color: #f9f9f9;
+    --footer-bg-color: #232323;
+    --title-color:#232323;
+    --second-text-color: #818181;
+    --title-style: 'Josefin Sans', sans-serif;
+    --text-style:'Mulish', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
