@@ -2,10 +2,13 @@
     --main-bg-color:  #E5E5E5;
     --second-bg-color: #f9f9f9;
     --footer-bg-color: #232323;
-    --title-color:#232323;
+    --first-title-color:#232323;
     --second-text-color: #818181;
     --title-style: 'Josefin Sans', sans-serif;
     --text-style:'Mulish', sans-serif;
+    --text-size: 18px;
+    --text-line-height:28px;
+    --main-border:1px solid #CCCCCC;
 }
 
 *{
@@ -14,11 +17,11 @@
     padding: 0;
 }
 body{
-    
+    font-weight: 400;
 }
 ul, ol{
-    text-decoration: none;
+    list-style: none;
 }
 a{
-    text-transform: none;
+    text-decoration: none;
 }
